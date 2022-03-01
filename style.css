@@ -1,0 +1,39 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+    
+}
+.orange-color{
+    color: darkorange;
+}
+section{
+    display: flex;
+    padding-bottom: 150px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient( yellow, tomato);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 40px; 
+    font-weight: 700;
+}
+.top-bannar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
